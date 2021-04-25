@@ -9,4 +9,4 @@
 
 ⚡ Dato curioso: Soy fan de la Torre Eiffel y amo la comida salada.
 
-https://github-readme-stats.vercel.app/api ? MicaCarabajal = anuraghazra 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MicaCarabajal=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
