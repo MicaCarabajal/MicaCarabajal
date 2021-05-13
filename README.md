@@ -6,6 +6,7 @@
 🌱 Actualmente estoy aprendiendo JS para luego usar librerias como REACT.
 
 🌱 Tengo conocimientos en: 
+
 -HTML5.
 
 -CSS3.
@@ -19,6 +20,10 @@
 -VTEX.
 
 -SQL.
+
+-PHP.
+
+-MYSQL.
 
 
 📫 Cómo contactarme: Link de linkedin: https://www.linkedin.com/in/mar%C3%ADa-micaela-carabajal-12870224/ o en mi portfolio: https://micaelacarabajal.netlify.app/
