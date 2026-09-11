@@ -1,7 +1,7 @@
 ### Hi!👋 Soy Micaela.
 ### ✨ Estudiante de programación, desarrollo frontend y diseño de UX/UI ✨.
 
-🔭 He trabajado por tres meses como desarrolladora frontend trainee en ecommerce y actualmente tengo mi emprendimiento para desarrollar páginas webs a negocios, etc.
+🔭 He trabajado como desarrolladora frontend trainee en ecommerce.
 
 🌱 Actualmente estoy aprendiendo JS para luego usar librerias como REACT.
 
