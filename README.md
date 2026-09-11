@@ -3,8 +3,6 @@
 
 🔭 He trabajado como desarrolladora frontend trainee en ecommerce.
 
-🌱 Actualmente estoy aprendiendo JS para luego usar librerias como REACT.
-
 🌱 Tengo conocimientos en: 
 
 -HTML5.
